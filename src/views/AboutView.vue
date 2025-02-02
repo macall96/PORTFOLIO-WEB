@@ -18,6 +18,7 @@
           <img src="../assets/img/work-experience.png" alt="Experience icon" width="10%" />
           <h3>{{ $t('about.professionalExperience') }}</h3>
           <hr />
+          <p>{{ $t('about.STIGACXExp') }}</p>
           <p>{{ $t('about.webDeveloper') }}</p>
           <p>{{ $t('about.ptTeacherJuanCarlos') }}</p>
           <p>{{ $t('about.ptTeacherVirgenCerro') }}</p>

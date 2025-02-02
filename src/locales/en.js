@@ -15,6 +15,7 @@ const en = {
     profile2:
       'During the Degree and my internship at CIEMAT, I acquired knowledge in programming languages, frameworks and agile methodologies, applying them in the development of web solutions. I am excited to continue developing my career in the technology sector, where I can apply my previous skills and my new knowledge to grow professionally in this dynamic field.',
     professionalExperience: 'Professional Experience',
+    STIGACXExp: 'Junior Full-Stack Developer. STIGA CX – Currently',
     webDeveloper: 'Web Developer. CIEMAT (Internship) - 2024',
     ptTeacherJuanCarlos: 'Teacher. IES Juan Carlos I - 2022',
     ptTeacherVirgenCerro: 'Teacher. CEIP Virgen del Cerro - 2021',

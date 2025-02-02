@@ -15,6 +15,7 @@ const es = {
     profile2:
       'Durante el Grado Superior y mis prácticas en CIEMAT, adquirí conocimientos en lenguajes de programación, frameworks y metodologías ágiles, aplicándolos en el desarrollo de soluciones web. Estoy entusiasmado por seguir desarrollando mi carrera en el sector tecnológico, donde puedo aplicar mis habilidades previas y mis nuevos conocimientos para crecer profesionalmente en este campo dinámico.',
     professionalExperience: 'Experiencia profesional',
+    STIGACXExp: 'Desarrollador Full-Stack Junior. STIGA CX - Actualidad',
     webDeveloper: 'Desarrollador Web. CIEMAT (Prácticas FP) - 2024',
     ptTeacherJuanCarlos: 'Profesor Pedagogía Terpéutica. IES Juan Carlos I - 2022',
     ptTeacherVirgenCerro: 'Profesor Pedagogía Terpéutica. CEIP Virgen del Cerro - 2021',
