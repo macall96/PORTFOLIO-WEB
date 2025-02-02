@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+:root {
+  --color-blue-electric: #3A61F7;
+  --color-blue-middle: #64708B;
+  --color-blue-ultralight: #EEF0F8;
+  --color-gray-dark: #212121;
+  --color-gray-medium: #484C5A;
+  --color-gray-middle: #9DA3B5;
+  --color-gray-ultralight: #E6E8EC;
+  --color-red: #DC2843;
+  --color-green: #08cc74;
+  --color-green-light: #60ca9a;
+  --color-orange: rgb(255, 185, 56);
+  --color-orange-dark: #ff7f00;
+  --color-burdeos: rgb(61, 106, 146);
+}
