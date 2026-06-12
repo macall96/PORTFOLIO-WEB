@@ -18,9 +18,18 @@
 </template>
 
 <script setup>
+import { useI18n } from 'vue-i18n';
+
+const { locale } = useI18n();
+
 const downloadCV = () => {
-  window.open('/PORTFOLIO-WEB/CV_Miguel_Angel_CC_ACTUAL.pdf', '_blank');
-};
+  const cvPath =
+    locale.value === 'en'
+      ? '/PORTFOLIO-WEB/CV_Miguel_Angel_dela_Calle_Cuadra(EN).pdf'
+      : '/PORTFOLIO-WEB/CV_Miguel_Angel_dela_Calle_Cuadra(ES).pdf';
+
+  window.open(cvPath, '_blank');
+}
 </script>
 
 
